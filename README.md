@@ -2,7 +2,7 @@
 
 This is a Flutter app for ordering sandwiches. It supports cart modification (adjust quantity, remove items) and runs on web, Android, and desktop.
 
-GitHub: https://github.com/waynedsz/sandwich_shop
+GitHub: https://github.com/wdszn/sandwich_shop
 
 ## Folder Structure
 
@@ -101,7 +101,7 @@ sandwich_shop/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/waynedsz/sandwich_shop.git
+   git clone https://github.com/wdszn/sandwich_shop.git
    cd sandwich_shop
    ```
 
